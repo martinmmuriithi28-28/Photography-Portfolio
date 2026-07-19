@@ -60,7 +60,7 @@ The design focuses on simplicity,elegance and user experience while maintaining 
 ![Home page](home-page.png)
 
 ### About Section
-![About Section](About,png)
+![About Section](About.png)
 
 ### Contact
 ![Contact](Contact.png)
