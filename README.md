@@ -57,13 +57,13 @@ The design focuses on simplicity,elegance and user experience while maintaining 
 ## Screenshots
 
 ### Homepage
-![Home page](screenshots/home-page.png)
+![Home page](home-page.png)
 
 ### About Section
-![About Section](screenshots/About,png)
+![About Section](About,png)
 
 ### Contact
-![Contact](screenshots/Contact.png)
+![Contact](Contact.png)
 
 
 
