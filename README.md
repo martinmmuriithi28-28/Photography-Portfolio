@@ -78,7 +78,7 @@ git clone git@github.com:martinmmuriithi28-28/Photography-Portfolio.git
 
 ## Live Demo
 Github Pages Link:
-https://github.com/martinmmuriithi28-28/Photography-Portfolio.git
+https://martinmmuriithi28-28.github.io/Photography-Portfolio/
 
 ## License
 
