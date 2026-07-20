@@ -57,7 +57,7 @@ The design focuses on simplicity,elegance and user experience while maintaining 
 ## Screenshots
 
 ### Homepage
-![Home page](home-page.png)
+![Home page](home-picture.png)
 
 ### About Section
 ![About Section](About.png)
